@@ -1,6 +1,11 @@
 
 ![logo](Assets/Images/CLOUDIA.svg)
 
+**你好~我是Cloudia雲！**
+
+财会生，喜欢捣鼓技术~
+
+~~Readme没写完，懒得写了（~~
 <!--
 **CloudiaYunna/CloudiaYunna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
